@@ -1,0 +1,23 @@
+{
+  "MainToken": "",
+  "TESTTOKEN": "",
+  "MongoDBURI": "",
+  "StaffGuildID": "",
+  "BotstaffRoleID": "",
+  "staffIds": [
+    "",
+    ""
+  ],
+  "TestID": "",
+  "PayPalID": "",
+  "PayPalAPISecretKey": "",
+  "TopggToken": "",
+  "MongoDBConnected": false,
+  "Underwork": true,
+  "HavingIssue": false,
+  "DevID": "",
+  "LinkProfileDisabled": true,
+  "APIStatus": "Connected",
+  "SupportGuildInvite": "",
+  "BugReportChannel": ""
+}
